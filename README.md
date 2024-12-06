@@ -16,8 +16,6 @@ Engenheiro de Dados com ampla experiência no desenvolvimento e implementação 
 
 ###  Linguagens  e  Tecnologias
 
-Aqui está a tabela reorganizada para que não haja colunas em branco entre a primeira e a última coluna:
-
 | **Linguagens**                                                                                                      | **Tecnologias**                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)               | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)                      |
@@ -31,8 +29,6 @@ Aqui está a tabela reorganizada para que não haja colunas em branco entre a pr
 | ![SPARK](https://img.shields.io/badge/SPARK-5C342D?style=for-the-badge&logo=Hadoop&logoColor=white)                  | ![ORACLE](https://img.shields.io/badge/ORACLE-CC342D?style=for-the-badge&logo=ORACLE&logoColor=white)                |
 |                                                                                                                     | ![Hadoop](https://img.shields.io/badge/Hadoop-Cloudera-1C342D?style=for-the-badge&logo=Hadoop&logoColor=white)       |
 |                                                                                                                     | ![Databricks](https://img.shields.io/badge/Databricks-DATALAKE-6C742D?style=for-the-badge&logo=Hadoop&logoColor=white) |
-
-Agora a tabela está mais organizada, sem colunas vazias entre as seções de **Linguagens** e **Tecnologias**.
 
 ###  Portifólio
 

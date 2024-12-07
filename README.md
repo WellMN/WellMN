@@ -1,5 +1,7 @@
 # Wellington Mendes  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-mendes-b744bb27)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  
+[![Linkedin](https://img.shields.io/badge/WellingtonMendes-View-orange)](https://www.linkedin.com/in/wellington-mendes-b744bb27)
 
 
 **`Engenheiro de dados e Analista de Sistemas`**
@@ -13,7 +15,12 @@ Engenheiro de Dados com ampla experiência no desenvolvimento e implementação 
 
 ---
 
+###  Portifólio
 
+[![Databricks](https://img.shields.io/badge/Databricks-FF6200)](https://databricks.com)  
+[![Dados Climáticos](https://img.shields.io/badge/Dados_Clim%C3%A1ticos-View-orange)](https://github.com/WellMN/Pipeline_Dados_Climaticos_Brasil)
+
+---
 ###  Linguagens  e  Tecnologias
 
 | **Linguagens**                                                                                                      | **Tecnologias**                                                                                                      |
@@ -30,6 +37,6 @@ Engenheiro de Dados com ampla experiência no desenvolvimento e implementação 
 |                                                                                                                     | ![Hadoop](https://img.shields.io/badge/Hadoop-Cloudera-1C342D?style=for-the-badge&logo=Hadoop&logoColor=white)       |
 |                                                                                                                     | ![Databricks](https://img.shields.io/badge/Databricks-DATALAKE-6C742D?style=for-the-badge&logo=Hadoop&logoColor=white) |
 
-###  Portifólio
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WellMN/WellMN)
+
+

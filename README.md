@@ -10,7 +10,10 @@ Me chamo Wellington Mendes, tenho 45 anos e sou natural do Belém porém resido 
 
 **`Resumo Profissional`**
 
-Engenheiro de Dados com ampla experiência no desenvolvimento e implementação de soluções de integração, transformação e processamento de grandes volumes de dados em ambientes distribuídos. Expertise em ferramentas e plataformas como Talend, Pentaho, Hadoop, Spark, e SQL, com forte atuação em processos de ETL/ELT para otimização de fluxo de dados e melhoria de performance. Habilidade em programação com C,Java, VB,PL-SQL Python, SQL, e Shell, além de experiência no uso de tecnologias como Hive, Impala,modelagem dimensional, bancos de dados relacionais e NoSQL. Vivência em metodologias ágeis Scrum e Kanban Capacidade comprovada em trabalhar com equipes multifuncionais para fornecer soluções de dados que atendem às necessidades de negócios e suportam decisões estratégicas.
+Engenheiro de Dados com aproximadamente 13 anos de experiência em tecnologia, sendo mais de 7 dedicados à área de dados. Onde, obtive a vivência em desenvolvimento de pipelines ETL, integração de fontes de dados em Data Lakes e Data Warehouses e sempre em busca de atualizações das últimas tecnologias. 
+Altamente focado em garantir a qualidade, segurança e otimização, performance e saíde de dados, implementando processos de controle, limpeza e proteção de informações utilizando metodologias como DevOps e práticas ágeis, incluindo Kanban e SCRUM, para otimizar o desenvolvimento e a entrega de soluções. 
+Experiência em colaborar com equipes multidisciplinares, tanto na consultoria, quanto de área de negócio para fornecer dados estratégicos e insights. 
+
 
 
 ---

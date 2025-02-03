@@ -1,7 +1,7 @@
 # Wellington Mendes  
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  
-[![Linkedin](https://img.shields.io/badge/WellingtonMendes-View-orange)](https://www.linkedin.com/in/wellington-mendes-b744bb27)
+[![Linkedin](https://img.shields.io/badge/WellingtonMendes-View-orange)](https://www.linkedin.com/in/wellingtonmendesdn)
 
 
 **`Engenheiro de dados e Analista de Sistemas`**
@@ -22,6 +22,9 @@ Experiência em colaborar com equipes multidisciplinares, tanto na consultoria, 
 
 [![Databricks](https://img.shields.io/badge/Databricks-FF6200)](https://databricks.com)  
 [![Dados Climáticos](https://img.shields.io/badge/Dados_Clim%C3%A1ticos-View-orange)](https://github.com/WellMN/Pipeline_Dados_Climaticos_Brasil)
+
+[![Airflow/Conteinerização](https://img.shields.io/badge/Airflow/Conteinerização-FF6200)](https://airflow.apache.org/)  
+[![ETL Docker Airflow Oracle Postgres](https://img.shields.io/badge/ETL_Docker_Airflow_Oracle_Postgres-View-orange)](https://github.com/WellMN/pipeline_etl_docker_airflow_oracle_postgres)
 
 ---
 ###  Linguagens  e  Tecnologias
